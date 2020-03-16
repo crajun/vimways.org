@@ -203,7 +203,7 @@ and clone the project:
 $ cd /tmp
 $ git clone https://github.com/tastejs/todomvc.git
 $ cd todomvc/examples/vanilla-es6
-$ vim -Nu /tmp/vimrc src/app.js
+$ vim -Nu /tmp/vimrc --noplugin src/app.js
 ```
 
 So, we have opened the entry point of our project and we are treated with this view:
